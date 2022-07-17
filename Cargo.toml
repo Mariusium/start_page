@@ -1,0 +1,12 @@
+[package]
+name = "start_page"
+version = "0.1.0"
+edition = "2021"
+authors = ["Marius Weber <marius.weber@protonmail.com>"]
+
+[dependencies]
+yew = "0.19"
+ybc = "0.2"
+wasm-bindgen = "0.2"
+web-sys = "0.3"
+
