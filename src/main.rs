@@ -1,4 +1,5 @@
 mod app;
+mod quotes;
 mod search;
 use app::App;
 
